@@ -11,7 +11,7 @@ Custom API
 
 ## Getting Started
 Trello Board (https://trello.com/b/q382aFCH/project-2)
-
+Netlify Link (https://gilded-entremet-cfd924.netlify.app/)
 ## Login
 [Login](file:///Users/oluwadolapo/Pictures/Photos%20Library.photoslibrary/originals/E/EDB2184D-BED0-4B10-8582-F1EAA7C81094.png)
 [Home](file:///Users/oluwadolapo/Desktop/Screen%20Shot%202022-10-24%20at%2010.41.36%20AM.png)
